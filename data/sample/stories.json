@@ -1,0 +1,24 @@
+[
+    {
+        "id": "sample-release-turnaround",
+        "title": "Making release handover predictable",
+        "themes": [
+            "delivery",
+            "ownership"
+        ],
+        "situation": "Releases were often late and teams were chasing each other for merges.",
+        "task": "Make handover on time predictable without heavy process.",
+        "actions": [
+            "Gave teams ownership of their own deadlines.",
+            "Built a simple dashboard for progress and risk."
+        ],
+        "result": "On-time handover rose from 60% to 90%.",
+        "numbers": [
+            "60% to 90% on-time"
+        ],
+        "reflection": "",
+        "follow_ups": [
+            "How did you get teams to own their deadlines?"
+        ]
+    }
+]

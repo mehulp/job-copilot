@@ -1,0 +1,30 @@
+{
+    "name": "Alex Sample",
+    "headline": "Engineering Manager | Cloud Platform | Enterprise SaaS",
+    "summary": "Engineering manager with 12 years in software and 5 years leading teams of up to 15 engineers. Led a shared cloud platform used by 10+ product teams.",
+    "skills": [
+        "Python",
+        "Go",
+        "AWS",
+        "Kubernetes",
+        "CI/CD",
+        "distributed systems",
+        "release engineering"
+    ],
+    "certifications": [
+        "AWS Certified Solutions Architect"
+    ],
+    "experience": [
+        {
+            "company": "Example Cloud Ltd",
+            "title": "Engineering Manager",
+            "start": "2021-03",
+            "end": null,
+            "bullets": [
+                "Led 12 engineers building a multi-tenant platform on AWS.",
+                "Cut new-service onboarding from 3 weeks to 1 with a configuration-driven design.",
+                "Raised on-time release handover from 60% to 90% with a team-owned release model."
+            ]
+        }
+    ]
+}

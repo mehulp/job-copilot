@@ -1,0 +1,1 @@
+"""Job Search Copilot: tools for matching your CV to job descriptions."""

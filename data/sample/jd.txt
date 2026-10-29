@@ -1,0 +1,41 @@
+Senior Engineering Manager - Cloud Platform Engineering
+
+Location: Pune / Bangalore (hybrid)
+Employment type: Full time
+
+About the role
+
+We are a fast-growing enterprise SaaS company building a multi-tenant cloud platform that is used by banks, insurers and healthcare organisations. We are looking for a Senior Engineering Manager to lead our Cloud Platform Engineering group. You will own the shared platform that product teams build on, and you will be accountable for its reliability, security, scalability and delivery predictability.
+
+You will lead three teams (about 25 engineers, including Staff and Principal Engineers) across platform services, release engineering and developer productivity. You will work closely with Product, Security, SRE and Customer Success, and you will report to the Director of Engineering.
+
+What you will do
+
+- Lead and grow a group of engineering managers and senior engineers; hire, coach and develop talent and build a strong engineering culture
+- Own the platform roadmap and delivery, balancing new capabilities, technical debt and operational excellence
+- Partner with architects and Principal Engineers on system design decisions covering scalability, availability, data consistency and cost
+- Drive reliability through clear SLOs, observability, incident management and blameless post-mortems
+- Improve release engineering: CI/CD pipelines, release cadence, quality gates and on-time delivery across many teams
+- Work with Security and Compliance to meet SOC 2, ISO 27001 and FedRAMP requirements, including vulnerability management and runtime upgrades
+- Introduce AI-assisted engineering practices and evaluate where generative AI can improve both our product and our developer productivity
+- Communicate clearly with senior stakeholders on progress, risks and trade-offs
+
+What we are looking for
+
+- 12+ years of software engineering experience, including 5+ years managing engineering teams
+- Experience leading teams that build and operate cloud-native, multi-tenant SaaS platforms on AWS (Azure or GCP experience is also welcome)
+- A solid understanding of distributed systems, microservices, APIs, messaging and queues, caching and databases
+- A track record of improving delivery predictability and release quality
+- Experience managing managers or leading multiple teams at the same time is a strong plus
+- Hands-on familiarity with Go, Java or Python, enough to take part in design and code-level discussions
+- Experience working in regulated or compliance-driven environments (FedRAMP, SOC 2, ISO 27001) is a strong plus
+- Experience with Kubernetes, Terraform and observability tooling (Prometheus, Grafana, OpenTelemetry) is a plus
+- Exposure to generative AI, LLM-based applications or ML platforms is a plus
+- Excellent communication skills and the ability to influence across teams and levels
+- Bachelor's degree in Computer Science, Information Technology or a related field
+
+Why join us
+
+- Ownership of a business-critical platform with real scale and real customers
+- A collaborative, engineering-led culture
+- Competitive compensation, learning budget and flexible working
